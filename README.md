@@ -1,6 +1,6 @@
 # 💊 Pharmacy Management System (PMS)
 
-**Enterprise-grade ERP solution for pharmaceutical retail and inventory lifecycle management.**
+**-ERP solution for pharmaceutical retail and inventory lifecycle management.**
 
 ## 📖 Overview
 
