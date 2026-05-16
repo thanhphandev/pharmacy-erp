@@ -71,6 +71,8 @@ optionsBuilder.UseSqlServer(@"Data Source=YOUR_SERVER;Initial Catalog=PharmacySy
 ```
 
 ---
+## PREVIEW
+<img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/617dcb75-d048-4401-90f4-2f347159d820" />
 
 ## 📎 Project Metadata
 
